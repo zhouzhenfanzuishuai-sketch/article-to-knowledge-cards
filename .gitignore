@@ -1,0 +1,17 @@
+# Local installation copies
+.agents/skills/
+
+# Credentials and local environment settings
+.env
+.env.*
+!.env.example
+
+# OS, editor, and temporary files
+.DS_Store
+*.swp
+*.swo
+*~
+*.tmp
+*.log
+__pycache__/
+*.py[cod]
